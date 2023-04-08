@@ -1,6 +1,6 @@
 # Roadmap of Lagrange DAO
 
-![roadmap.png](images%2Froadmap.png)
+![roadmap.svg](images%2Froadmap.svg)
 
 ## Installation
 
