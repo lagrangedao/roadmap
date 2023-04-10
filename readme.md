@@ -1,5 +1,8 @@
 # Roadmap of Lagrange DAO
 
+[![Made by LagrangeDAO](https://img.shields.io/badge/made%20by-LagrangeDAO-green.svg)](https://www.lagrangedao.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lagrangedao)](https://twitter.com/lagrangedao)
+
 ![roadmap.svg](images%2Froadmap.svg)
 
 ## Installation
