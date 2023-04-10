@@ -27,7 +27,6 @@ To customize the Gantt chart, edit the df list of task dictionaries in the scrip
 * Task (string): The name of the task.
 * Start (string): The start date of the task in the format "YYYY-MM-DD".
 * Finish (string): The finish date of the task in the format "YYYY-MM-DD".
-* Complete (integer): The completion percentage of the task as an integer between 0 and 100.
 
 To change the color scheme of the chart, edit the colors parameter in the create_gantt function call. The index_col and show_colorbar parameters can also be adjusted to change the appearance of the chart.
 
